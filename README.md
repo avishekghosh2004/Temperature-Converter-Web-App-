@@ -21,7 +21,3 @@ A simple temperature converter web application using HTML, CSS, and JavaScript.
 Connect with me:
 - [Twitter](https://twitter.com/Avishek_ghosh01)
 - [LinkedIn](https://www.linkedin.com/in/avishek-ghosh12345/)
-Connect with me:
-- [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/YourTwitterHandle)
-- [<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
-- [<i class="fab fa-github"></i> GitHub](https://github.com/YourGitHubUsername)
