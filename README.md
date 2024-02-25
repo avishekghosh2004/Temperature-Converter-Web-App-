@@ -17,3 +17,8 @@ A simple temperature converter web application using HTML, CSS, and JavaScript.
 ## Author
 
 [Avishek Ghosh]
+
+Connect with me:
+- [Twitter](https://twitter.com/Avishek_ghosh01)
+- [LinkedIn](https://www.linkedin.com/in/avishek-ghosh12345/)
+
